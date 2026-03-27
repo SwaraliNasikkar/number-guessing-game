@@ -54,4 +54,4 @@ Itâ€™s all about building small, fun projects while getting better every day ðŸš
 2. Run the script:
 
 ```bash
-python guess_game.py
+python number_guess.py
